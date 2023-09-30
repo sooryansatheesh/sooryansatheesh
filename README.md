@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a graduate student at UC Berkeley in Information Management and Systems, graduating in May 2024.
+- 🌱 I’m currently learning Analytics, Machine Learning and Software.
+- 👯 I’m looking to collaborate on cool ML/DL projects.
+- Check out my website  <a href="https://sooryansatheesh.github.io/">here</a>
