@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </details>
 
 ## Previous work
--
+- California Climate Change and Wildfire Analysis (<a href="[https://sooryansatheesh.github.io/](https://sooryansatheesh.github.io/INFO247Spring2023/INFO247.html)https://sooryansatheesh.github.io/INFO247Spring2023/INFO247.html">Website</a>) (<a href="https://github.com/sooryansatheesh/California-Climate-Change-and-Wildfire-Analysis">Repo</a>)
