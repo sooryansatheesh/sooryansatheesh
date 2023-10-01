@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
 ## Previous work
 - California Climate Change and Wildfire Analysis (<a href="https://sooryansatheesh.github.io/INFO247Spring2023/INFO247.html">Website</a>) (<a href="https://github.com/sooryansatheesh/California-Climate-Change-and-Wildfire-Analysis">Repo</a>)
+- Tableau Project: EDA on the Distribution of Trees in Select Cities of the Bay Area (<a href="https://sooryansatheesh.github.io/projects/tableau_eda_project.htm">Website</a>) (<a href="https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area">Repo</a>)
